@@ -1,2 +1,2 @@
 # CSC-543-Web-Programming
-Web Programming Assignment 1
+First assignment: create a webpage to act as an "about me" about the creator (myself).
