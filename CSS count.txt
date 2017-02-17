@@ -1,0 +1,27 @@
+1 text-align
+2 font-family
+3 color
+4 text-decoration
+5 font-style
+6 font-size
+7 background-image
+8 list-style type
+9 border-color
+10 border-style
+11 background-color
+12 margin
+13 padding
+14 line-height
+15 font-weight
+16 cursor
+17 display
+18 border-bottom
+19 border-left
+20 border-right
+21 border-radius
+22 list-style-position
+23 width
+24 border-width
+25 height
+26 border-collapse
+27 hover??
